@@ -2,11 +2,11 @@
 
 [![NPM][npm]][npm-url]
 
-> [GitLab SVG icons](lib-url) as Svelte components.
+> [GitLab SVG icons](https://gitlab.com/gitlab-org/gitlab-svgs) as Svelte components.
 
 <!-- REPO_URL -->
 
-<!-- Try it in the [Svelte REPL](). -->
+Try it in the [Svelte REPL](https://svelte.dev/repl/43aa7623339d47d1b4403a1a35f60446).
 
 ---
 
@@ -79,5 +79,5 @@ Svelte version 3.31 or greater is required to use this library with TypeScript.
 
 [MIT](LICENSE)
 
-[npm]: https://img.shields.io/npm/v/svelte-gitlab-icons.svg?color=%237d4cdb&style=for-the-badge
+[npm]: https://img.shields.io/npm/v/svelte-gitlab-icons.svg?color=%23e2432a&style=for-the-badge
 [npm-url]: https://npmjs.com/package/svelte-gitlab-icons
