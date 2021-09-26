@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { Fire, MergeRequestOpen } from "../lib";
+  import { Fire, MergeRequestOpen, Connected } from "../lib";
   import Api from "../lib/Api.svelte";
 </script>
 
@@ -9,3 +9,5 @@
 <MergeRequestOpen />
 <!-- svelte-ignore missing-declaration -->
 <Api width="30" />
+<!-- svelte-ignore missing-declaration -->
+<Connected />

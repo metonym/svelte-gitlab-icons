@@ -1,6 +1,6 @@
 # Icon Index
 
-> 364 total icons
+> 365 total icons
 
 ## Icons
 
@@ -71,6 +71,7 @@
 - Comments
 - Commit
 - Comparison
+- Connected
 - ContainerImage
 - CopyToClipboard
 - CreditCard
