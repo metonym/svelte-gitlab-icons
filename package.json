@@ -1,6 +1,6 @@
 {
   "name": "svelte-gitlab-icons",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "license": "MIT",
   "description": "GitLab SVG icons as Svelte components",
   "author": "Eric Liu (https://github.com/metonym)",
