@@ -1,6 +1,6 @@
 # Icon Index
 
-> 365 total icons
+> 369 total icons
 
 ## Icons
 
@@ -26,6 +26,9 @@
 - ArrowUp
 - Assignee
 - At
+- AttentionSolidSm
+- AttentionSolid
+- Attention
 - Autoplay
 - Bitbucket
 - Bold
@@ -42,6 +45,7 @@
 - CanceledCircle
 - Car
 - Chart
+- CheckCircleDashed
 - CheckCircleFilled
 - CheckCircle
 - Check
@@ -123,7 +127,6 @@
 - FeatureFlag
 - FileAdditionSolid
 - FileAddition
-- FileAdditionsSolid
 - FileDeletionSolid
 - FileDeletion
 - FileModifiedSolid
@@ -140,6 +143,7 @@
 - Food
 - Fork
 - GitMerge
+- Git
 - Github
 - GoBack
 - Google
