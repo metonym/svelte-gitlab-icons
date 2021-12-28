@@ -26,6 +26,12 @@ yarn add -D svelte-gitlab-icons
 npm i -D svelte-gitlab-icons
 ```
 
+**pnpm**
+
+```bash
+pnpm i -D svelte-gitlab-icons
+```
+
 ## Usage
 
 ### Basic
