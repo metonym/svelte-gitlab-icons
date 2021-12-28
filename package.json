@@ -40,5 +40,6 @@
   ],
   "files": [
     "lib"
-  ]
+  ],
+  "type": "module"
 }
