@@ -1054,17 +1054,22 @@ svelte-readme@^3.6.2:
     rollup-plugin-svelte "^7.0.0"
     rollup-plugin-terser "^7.0.2"
 
-svelte@^3.44.3, svelte@^3.46.2:
+svelte@^3.46.2:
   version "3.46.2"
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.46.2.tgz#f0ffbffaea3a9a760edcbefc0902b41998a686ad"
   integrity sha512-RXSAtYNefe01Sb1lXtZ2I+gzn3t/h/59hoaRNeRrm8IkMIu6BSiAkbpi41xb+C44x54YKnbk9+dtfs3pM4hECA==
 
-svelvg@^0.8.4:
-  version "0.8.4"
-  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.8.4.tgz#520fb537dbf749bb3cdb04c938ad508465e49342"
-  integrity sha512-3PEvcntZmJGqAaRtN/l2nhVi5D437vO3XJAM26rDIzniB12YLIdOuW53OZ1zJwCgi0naRbymhLBa7bfJmE0x/Q==
+svelte@^3.46.4:
+  version "3.46.4"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.46.4.tgz#0c46bc4a3e20a2617a1b7dc43a722f9d6c084a38"
+  integrity sha512-qKJzw6DpA33CIa+C/rGp4AUdSfii0DOTCzj/2YpSKKayw5WGSS624Et9L1nU1k2OVRS9vaENQXp2CVZNU+xvIg==
+
+svelvg@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.9.0.tgz#fbaeb88a5088fd11124c291dc101422eb528cd10"
+  integrity sha512-AJ+vWWLvXKNamHh/V7QFeuj/hesXqibE8eq517S8NC9f0uz5NJMmyiMJXVAdM6p/FFUs/k00nlcwGpxtjsov2g==
   dependencies:
-    svelte "^3.44.3"
+    svelte "^3.46.4"
     tiny-glob "^0.2.9"
 
 terser@^5.0.0:
