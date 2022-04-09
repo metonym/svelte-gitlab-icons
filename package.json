@@ -1,13 +1,12 @@
 {
   "name": "svelte-gitlab-icons",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "license": "MIT",
   "description": "GitLab SVG icons as Svelte components",
   "author": "Eric Liu (https://github.com/metonym)",
   "svelte": "./lib/index.js",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
-  "sideEffects": false,
   "scripts": {
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
