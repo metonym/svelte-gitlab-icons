@@ -1,6 +1,6 @@
 # Icon Index
 
-> 369 total icons
+> 370 total icons
 
 ## Icons
 
@@ -186,6 +186,7 @@
 - Labels
 - Leave
 - LevelUp
+- LicenseSm
 - License
 - Link
 - Linkedin
