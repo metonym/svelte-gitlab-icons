@@ -5,6 +5,7 @@
     Connected,
     AttentionSolid,
     LicenseSm,
+    FaceNeutral
   } from "../lib";
   import Api from "../lib/Api.svelte";
 </script>
@@ -15,3 +16,4 @@
 <Connected />
 <AttentionSolid />
 <LicenseSm fill="red" />
+<FaceNeutral />
