@@ -28,6 +28,24 @@
   resolved "https://registry.yarnpkg.com/@gitlab/svgs/-/svgs-2.12.0.tgz#f4825c3e9b95d219935b62f71143f9f2fc48b0fe"
   integrity sha512-FHd0ImNyj8ZIiH3Ah2esxbxNQlXMSezqkcUe0nm+aWkSFsg6MbMcRYa6WvOKq5CbAgWpH1TbDqokkJ421YUtEg==
 
+"@jridgewell/resolve-uri@^3.0.3":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@jridgewell/resolve-uri/-/resolve-uri-3.1.0.tgz#2203b118c157721addfe69d47b70465463066d78"
+  integrity sha512-F2msla3tad+Mfht5cJq7LSXcdudKTWCVYUgw6pLFOOHSTtZlj6SWNYAp+AhuqLmWdBO2X5hPrLcu8cVP8fy28w==
+
+"@jridgewell/sourcemap-codec@^1.4.10":
+  version "1.4.14"
+  resolved "https://registry.yarnpkg.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.14.tgz#add4c98d341472a289190b424efbdb096991bb24"
+  integrity sha512-XPSJHWmi394fuUuzDnGz1wiKqWfo1yXecHQMRf2l6hztTO+nPru658AyDngaBe7isIxEkRsPR3FZh+s7iVa4Uw==
+
+"@jridgewell/trace-mapping@^0.3.9":
+  version "0.3.14"
+  resolved "https://registry.yarnpkg.com/@jridgewell/trace-mapping/-/trace-mapping-0.3.14.tgz#b231a081d8f66796e475ad588a1ef473112701ed"
+  integrity sha512-bJWEfQ9lPTvm3SneWwRFVLzrh6nhjwqw7TUFFBEMzwvg7t7PCDenf2lDwqo4NQXzdpgBXyFgDWnQA+2vkruksQ==
+  dependencies:
+    "@jridgewell/resolve-uri" "^3.0.3"
+    "@jridgewell/sourcemap-codec" "^1.4.10"
+
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
@@ -394,10 +412,10 @@ function-bind@^1.1.1:
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-gh-pages@^3.2.3:
-  version "3.2.3"
-  resolved "https://registry.yarnpkg.com/gh-pages/-/gh-pages-3.2.3.tgz#897e5f15e111f42af57d21d430b83e5cdf29472c"
-  integrity sha512-jA1PbapQ1jqzacECfjUaO9gV8uBgU6XNMV0oXLtfCX3haGLe5Atq8BxlrADhbD6/UdG9j6tZLWAkAybndOXTJg==
+gh-pages@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/gh-pages/-/gh-pages-4.0.0.tgz#bd7447bab7eef008f677ac8cc4f6049ab978f4a6"
+  integrity sha512-p8S0T3aGJc68MtwOcZusul5qPSNZCalap3NWbhRUZYu1YOdp+EjZ+4kPmRM8h3NNRdqw00yuevRjlkuSzCn7iQ==
   dependencies:
     async "^2.6.1"
     commander "^2.18.0"
@@ -908,10 +926,17 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@^2.62.0, rollup@^2.72.0:
+rollup@^2.62.0:
   version "2.72.0"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.72.0.tgz#f94280b003bcf9f2f1f2594059a9db5abced371e"
   integrity sha512-KqtR2YcO35/KKijg4nx4STO3569aqCUeGRkKWnJ6r+AvBBrVY9L4pmf4NHVrQr4mTOq6msbohflxr2kpihhaOA==
+  optionalDependencies:
+    fsevents "~2.3.2"
+
+rollup@^2.76.0:
+  version "2.76.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.76.0.tgz#c69fe03db530ac53fcb9523b3caa0d3c0b9491a1"
+  integrity sha512-9jwRIEY1jOzKLj3nsY/yot41r19ITdQrhs+q3ggNWhr9TQgduHqANvPpS32RNpzGklJu3G1AJfvlZLi/6wFgWA==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -979,11 +1004,6 @@ source-map@^0.6.0, source-map@~0.6.0:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
-source-map@^0.7.3:
-  version "0.7.3"
-  resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.7.3.tgz#5302f8169031735226544092e64981f751750383"
-  integrity sha512-CkCj6giN3S+n9qrYiBTX5gystlENnRW5jZeNLHpe6aue+SrHcG5VYwujhW9s4dY31mEGsxBDrHR6oI69fTXsaQ==
-
 source-map@~0.8.0-beta.0:
   version "0.8.0-beta.0"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.8.0-beta.0.tgz#d4c1bb42c3f7ee925f005927ba10709e0d1d1f11"
@@ -1029,17 +1049,17 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
-svelte-check@^2.7.0:
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.7.0.tgz#10d579dc89bf2e145a04786cc9fa8dabfb018a2a"
-  integrity sha512-GrvG24j0+i8AOm0k0KyJ6Dqc+TAR2yzB7rtS4nljHStunVxCTr/1KYlv4EsOeoqtHLzeWMOd5D2O6nDdP/yw4A==
+svelte-check@^2.8.0:
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.8.0.tgz#cfe1354e72545839c47f0f022c2c007454cd4095"
+  integrity sha512-HRL66BxffMAZusqe5I5k26mRWQ+BobGd9Rxm3onh7ZVu0nTk8YTKJ9vu3LVPjUGLU9IX7zS+jmwPVhJYdXJ8vg==
   dependencies:
+    "@jridgewell/trace-mapping" "^0.3.9"
     chokidar "^3.4.1"
     fast-glob "^3.2.7"
     import-fresh "^3.2.1"
     picocolors "^1.0.0"
     sade "^1.7.4"
-    source-map "^0.7.3"
     svelte-preprocess "^4.0.0"
     typescript "*"
 
@@ -1075,17 +1095,22 @@ svelte-readme@^3.6.3:
     rollup-plugin-svelte "^7.0.0"
     rollup-plugin-terser "^7.0.2"
 
-svelte@^3.46.4, svelte@^3.48.0:
+svelte@^3.48.0:
   version "3.48.0"
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.48.0.tgz#f98c866d45e155bad8e1e88f15f9c03cd28753d3"
   integrity sha512-fN2YRm/bGumvjUpu6yI3BpvZnpIm9I6A7HR4oUNYd7ggYyIwSA/BX7DJ+UXXffLp6XNcUijyLvttbPVCYa/3xQ==
 
-svelvg@^0.10.1:
-  version "0.10.1"
-  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.10.1.tgz#0f8f7d87b9491ec3ab8f3e55621af05687a88c92"
-  integrity sha512-0bh6/Njm3v2JhteoNsiOj2Q9jy2SJYEdmH9CTUvA5fOtJ5ufxzJ3xwIFH+JB8OIr9FTCzLMb9x3DwiG+kp9U4g==
+svelte@^3.49.0:
+  version "3.49.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.49.0.tgz#5baee3c672306de1070c3b7888fc2204e36a4029"
+  integrity sha512-+lmjic1pApJWDfPCpUUTc1m8azDqYCG1JN9YEngrx/hUyIcFJo6VZhj0A1Ai0wqoHcEIuQy+e9tk+4uDgdtsFA==
+
+svelvg@^0.11.2:
+  version "0.11.2"
+  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.11.2.tgz#6591c9e7d3d336da23428919a0ce34f4630965c0"
+  integrity sha512-RhWjAfKHZztcld/mUuHef/ckCrT3ZQbORyjbVMDlhNvOmmstH0bBlzEPVMOi8vKdvtdUm0KXPSRV693VWMSjzw==
   dependencies:
-    svelte "^3.46.4"
+    svelte "^3.48.0"
     tiny-glob "^0.2.9"
 
 terser@^5.0.0:
