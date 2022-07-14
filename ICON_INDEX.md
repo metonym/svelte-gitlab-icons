@@ -1,6 +1,6 @@
 # Icon Index
 
-> 370 total icons
+> 378 total icons
 
 ## Icons
 
@@ -122,6 +122,8 @@
 - ExternalLink
 - EyeSlash
 - Eye
+- FaceNeutral
+- FaceUnhappy
 - FalsePositive
 - FeatureFlagDisabled
 - FeatureFlag
@@ -142,6 +144,7 @@
 - Folder
 - Food
 - Fork
+- Formula
 - GitMerge
 - Git
 - Github
@@ -276,6 +279,7 @@
 - SeverityUnknown
 - Share
 - Shield
+- Sidebar
 - Skype
 - SlightFrown
 - SlightSmile
@@ -335,7 +339,9 @@
 - Stop
 - Strikethrough
 - Subgroup
+- Subscript
 - Substitute
+- Superscript
 - Symlink
 - Table
 - Tablet
@@ -353,6 +359,7 @@
 - Thumbtack
 - TimeOut
 - Timer
+- Title
 - TodoAdd
 - TodoDone
 - Token
@@ -366,6 +373,7 @@
 - Underline
 - Unlink
 - UnstageAll
+- Upgrade
 - Upload
 - User
 - Users
