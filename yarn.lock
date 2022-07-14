@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@gitlab/svgs@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@gitlab/svgs/-/svgs-2.12.0.tgz#f4825c3e9b95d219935b62f71143f9f2fc48b0fe"
-  integrity sha512-FHd0ImNyj8ZIiH3Ah2esxbxNQlXMSezqkcUe0nm+aWkSFsg6MbMcRYa6WvOKq5CbAgWpH1TbDqokkJ421YUtEg==
+"@gitlab/svgs@2.27.0":
+  version "2.27.0"
+  resolved "https://registry.yarnpkg.com/@gitlab/svgs/-/svgs-2.27.0.tgz#563aaa8e059ca50c3fd2c39e077bba4951b6c850"
+  integrity sha512-/Pc8PueTGJbQRB4AhJGyYOM3Ak09oqbXCykLU8cLd41NTbTPdvcXo7QwG76fFL83HkxrrAPJeSnbCMsme5CVKQ==
 
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.1.0"
