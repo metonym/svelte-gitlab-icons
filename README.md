@@ -14,21 +14,14 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/43aa7623339d47d1b4403a1a35f6
 
 ## Installation
 
-**Yarn**
-
 ```bash
+# Yarn
 yarn add -D svelte-gitlab-icons
-```
 
-**NPM**
-
-```bash
+# npm
 npm i -D svelte-gitlab-icons
-```
 
-**pnpm**
-
-```bash
+# pnpm
 pnpm i -D svelte-gitlab-icons
 ```
 
@@ -50,9 +43,7 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for a list of supported icons.
 
 ### Direct import
 
-Use the direct import for faster compiling during development.
-
-**Note:** even if using base imports, unused imports are still tree shakeable by application bundlers like Rollup or webpack.
+Directly import an icon for faster compiling during development.
 
 ```html
 <script>
@@ -74,10 +65,6 @@ Use the direct import for faster compiling during development.
   </div>
 {/each}
 ```
-
-## TypeScript
-
-Svelte version 3.31 or greater is required to use this library with TypeScript.
 
 ## [Changelog](CHANGELOG.md)
 
