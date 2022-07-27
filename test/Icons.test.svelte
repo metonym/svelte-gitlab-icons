@@ -6,6 +6,7 @@
     AttentionSolid,
     LicenseSm,
     FaceNeutral,
+    LiveStream,
   } from "../lib";
   import Api from "../lib/Api.svelte";
 </script>
@@ -17,3 +18,4 @@
 <AttentionSolid />
 <LicenseSm fill="red" />
 <FaceNeutral />
+<LiveStream />
