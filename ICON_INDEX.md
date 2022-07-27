@@ -1,6 +1,6 @@
 # Icon Index
 
-> 378 total icons
+> 379 total icons
 
 ## Icons
 
@@ -199,6 +199,7 @@
 - ListOutdent
 - ListTask
 - LivePreview
+- LiveStream
 - LocationDot
 - Location
 - LockOpen
