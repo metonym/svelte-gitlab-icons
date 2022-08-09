@@ -1,6 +1,6 @@
 # Icon Index
 
-> 379 total icons
+> 373 total icons
 
 ## Icons
 
@@ -8,12 +8,6 @@
 - Accessibility
 - Account
 - Admin
-- AngleDoubleLeft
-- AngleDoubleRight
-- AngleDown
-- AngleLeft
-- AngleRight
-- AngleUp
 - Api
 - Appearance
 - Applications
