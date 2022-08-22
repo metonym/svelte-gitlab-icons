@@ -1,6 +1,6 @@
 # Icon Index
 
-> 373 total icons
+> 374 total icons
 
 ## Icons
 
@@ -171,6 +171,7 @@
 - IssueTypeIssue
 - IssueTypeMaintenance
 - IssueTypeRequirements
+- IssueTypeTask
 - IssueTypeTestCase
 - IssueUpdate
 - Issues

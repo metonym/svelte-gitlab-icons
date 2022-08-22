@@ -7,6 +7,7 @@
     LicenseSm,
     FaceNeutral,
     LiveStream,
+    IssueTypeTask,
   } from "../lib";
   import Api from "../lib/Api.svelte";
 </script>
@@ -19,3 +20,4 @@
 <LicenseSm fill="red" />
 <FaceNeutral />
 <LiveStream />
+<IssueTypeTask />
