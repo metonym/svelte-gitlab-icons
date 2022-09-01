@@ -8,6 +8,7 @@
     FaceNeutral,
     LiveStream,
     IssueTypeTask,
+    EntityBlocked,
   } from "../lib";
   import Api from "../lib/Api.svelte";
 </script>
@@ -21,3 +22,4 @@
 <FaceNeutral />
 <LiveStream />
 <IssueTypeTask />
+<EntityBlocked />
