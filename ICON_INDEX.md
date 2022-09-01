@@ -1,6 +1,6 @@
 # Icon Index
 
-> 374 total icons
+> 375 total icons
 
 ## Icons
 
@@ -102,6 +102,7 @@
 - Earth
 - Ellipsis_h
 - Ellipsis_v
+- EntityBlocked
 - Environment
 - EpicClosed
 - Epic
