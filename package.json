@@ -15,7 +15,7 @@
     "test": "svelte-check --workspace test"
   },
   "devDependencies": {
-    "@gitlab/svgs": "3.1.0",
+    "@gitlab/svgs": "3.3.0",
     "gh-pages": "^4.0.0",
     "rollup": "^2.78.1",
     "svelte": "^3.49.0",
