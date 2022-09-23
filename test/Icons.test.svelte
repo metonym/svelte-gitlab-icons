@@ -9,6 +9,7 @@
     LiveStream,
     IssueTypeTask,
     EntityBlocked,
+    CheckSm,
   } from "../lib";
   import Api from "../lib/Api.svelte";
 </script>
@@ -23,3 +24,4 @@
 <LiveStream />
 <IssueTypeTask />
 <EntityBlocked />
+<CheckSm />
