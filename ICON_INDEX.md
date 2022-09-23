@@ -1,6 +1,6 @@
 # Icon Index
 
-> 375 total icons
+> 377 total icons
 
 ## Icons
 
@@ -42,6 +42,7 @@
 - CheckCircleDashed
 - CheckCircleFilled
 - CheckCircle
+- CheckSm
 - Check
 - CherryPickCommit
 - ChevronDoubleLgLeft
@@ -266,6 +267,7 @@
 - SearchDot
 - SearchMinus
 - SearchPlus
+- SearchSm
 - Search
 - Settings
 - SeverityCritical
