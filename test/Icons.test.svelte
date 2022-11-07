@@ -10,6 +10,7 @@
     IssueTypeTask,
     EntityBlocked,
     CheckSm,
+    Gitea,
   } from "../lib";
   import Api from "../lib/Api.svelte";
 </script>
@@ -25,3 +26,4 @@
 <IssueTypeTask />
 <EntityBlocked />
 <CheckSm />
+<Gitea />
