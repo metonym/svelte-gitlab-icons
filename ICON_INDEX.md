@@ -1,6 +1,6 @@
 # Icon Index
 
-> 377 total icons
+> 379 total icons
 
 ## Icons
 
@@ -143,6 +143,7 @@
 - Formula
 - GitMerge
 - Git
+- Gitea
 - Github
 - GoBack
 - Google
@@ -150,6 +151,7 @@
 - Hamburger
 - Heading
 - Heart
+- Highlight
 - History
 - Home
 - Hook
