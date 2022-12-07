@@ -1,6 +1,6 @@
 # Icon Index
 
-> 379 total icons
+> 385 total icons
 
 ## Icons
 
@@ -32,6 +32,7 @@
 - Branch
 - BrandZoom
 - Bug
+- Building
 - Bulb
 - Bullhorn
 - Calendar
@@ -63,6 +64,7 @@
 - Code
 - CollapseLeft
 - CollapseRight
+- CollapseSolid
 - Collapse
 - CommentDots
 - CommentNext
@@ -70,6 +72,7 @@
 - Comments
 - Commit
 - Comparison
+- Compass
 - Connected
 - ContainerImage
 - CopyToClipboard
@@ -173,7 +176,9 @@
 - IssueTypeFeature
 - IssueTypeIncident
 - IssueTypeIssue
+- IssueTypeKeyResult
 - IssueTypeMaintenance
+- IssueTypeObjective
 - IssueTypeRequirements
 - IssueTypeTask
 - IssueTypeTestCase
@@ -250,6 +255,7 @@
 - PushRules
 - QuestionO
 - Question
+- Quota
 - Quote
 - Redo
 - RemoveAll
