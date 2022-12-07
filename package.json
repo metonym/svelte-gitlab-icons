@@ -18,8 +18,8 @@
     "@gitlab/svgs": "3.7.0",
     "gh-pages": "^4.0.0",
     "rollup": "^2.79.1",
-    "svelte": "^3.52.0",
-    "svelte-check": "^2.9.2",
+    "svelte": "^3.54.0",
+    "svelte-check": "^2.10.1",
     "svelte-readme": "^3.6.3",
     "svelvg": "^0.11.3"
   },
