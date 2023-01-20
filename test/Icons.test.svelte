@@ -12,6 +12,7 @@
     EntityBlocked,
     CheckSm,
     Gitea,
+    Discord,
   } from "../lib";
   import Api from "../lib/Api.svelte";
 </script>
@@ -29,3 +30,4 @@
 <EntityBlocked />
 <CheckSm />
 <Gitea />
+<Discord />
