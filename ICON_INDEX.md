@@ -1,6 +1,6 @@
 # Icon Index
 
-> 385 total icons
+> 389 total icons
 
 ## Icons
 
@@ -81,6 +81,7 @@
 - Dashboard
 - Deployments
 - DetailsBlock
+- Discord
 - Disk
 - DocChanges
 - DocChart
@@ -150,6 +151,7 @@
 - Github
 - GoBack
 - Google
+- Grip
 - Group
 - Hamburger
 - Heading
@@ -176,7 +178,7 @@
 - IssueTypeFeature
 - IssueTypeIncident
 - IssueTypeIssue
-- IssueTypeKeyResult
+- IssueTypeKeyresult
 - IssueTypeMaintenance
 - IssueTypeObjective
 - IssueTypeRequirements
@@ -187,6 +189,7 @@
 - Italic
 - Iteration
 - Key
+- Keyboard
 - KubernetesAgent
 - Kubernetes
 - Label
@@ -275,6 +278,7 @@
 - SearchDot
 - SearchMinus
 - SearchPlus
+- SearchResults
 - SearchSm
 - Search
 - Settings
