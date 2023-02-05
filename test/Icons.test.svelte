@@ -1,5 +1,6 @@
 <script lang="ts">
   import {
+    Diagram,
     Building,
     Fire,
     MergeRequestOpen,
@@ -17,6 +18,7 @@
   import Api from "../lib/Api.svelte";
 </script>
 
+<Diagram />
 <Building />
 <Fire />
 <MergeRequestOpen />

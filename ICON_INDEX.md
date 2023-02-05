@@ -1,6 +1,6 @@
 # Icon Index
 
-> 389 total icons
+> 391 total icons
 
 ## Icons
 
@@ -81,6 +81,7 @@
 - Dashboard
 - Deployments
 - DetailsBlock
+- Diagram
 - Discord
 - Disk
 - DocChanges
@@ -269,6 +270,7 @@
 - ReviewCheckmark
 - ReviewList
 - ReviewWarning
+- RocketLaunch
 - Rocket
 - Rss
 - Scale
