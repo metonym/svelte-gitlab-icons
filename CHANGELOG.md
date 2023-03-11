@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.15.0](https://github.com/metonym/svelte-gitlab-icons/releases/tag/v0.15.0) - 2023-03-11
+
+**Breaking Changes**
+
+- remove `DragHorizontal`, `DragVertical`, `Drag`
+
+**Features**
+
+- upgrade `@gitlab/svgs` to [v3.24.0](https://gitlab.com/gitlab-org/gitlab-svgs/-/releases/v3.24.0) (+3 icons, -3 icons)
+
 ## [0.14.0](https://github.com/metonym/svelte-gitlab-icons/releases/tag/v0.14.0) - 2023-02-05
 
 - upgrade `@gitlab/svgs` to [v3.19.0](https://gitlab.com/gitlab-org/gitlab-svgs/-/releases/v3.19.0) (net +2 icons)
