@@ -14,6 +14,7 @@
     CheckSm,
     Gitea,
     Discord,
+    MachineLearning,
   } from "../lib";
   import Api from "../lib/Api.svelte";
 </script>
@@ -33,3 +34,4 @@
 <CheckSm />
 <Gitea />
 <Discord />
+<MachineLearning />

@@ -100,9 +100,6 @@
 - DottedCircle
 - DoubleHeadedArrow
 - Download
-- DragHorizontal
-- DragVertical
-- Drag
 - Dumbbell
 - Duplicate
 - Earth
@@ -214,6 +211,7 @@
 - Lock
 - Log
 - LongArrow
+- MachineLearning
 - Mail
 - MarqueeSelection
 - Maximize
@@ -292,6 +290,7 @@
 - SeverityUnknown
 - Share
 - Shield
+- SidebarRight
 - Sidebar
 - Skype
 - SlightFrown
@@ -369,6 +368,7 @@
 - TextDescription
 - ThumbDown
 - ThumbUp
+- ThumbtackSolid
 - Thumbtack
 - TimeOut
 - Timer
