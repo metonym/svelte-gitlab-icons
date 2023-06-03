@@ -15,6 +15,7 @@
     Gitea,
     Discord,
     MachineLearning,
+    CloudPod,
   } from "../lib";
   import Api from "../lib/Api.svelte";
 </script>
@@ -35,3 +36,4 @@
 <Gitea />
 <Discord />
 <MachineLearning />
+<CloudPod />

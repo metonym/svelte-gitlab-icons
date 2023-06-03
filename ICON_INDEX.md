@@ -1,6 +1,6 @@
 # Icon Index
 
-> 391 total icons
+> 400 total icons
 
 ## Icons
 
@@ -61,12 +61,15 @@
 - Clock
 - Close
 - CloudGear
+- CloudPod
+- CloudTerminal
 - Code
 - CollapseLeft
 - CollapseRight
 - CollapseSolid
 - Collapse
 - CommentDots
+- CommentLines
 - CommentNext
 - Comment
 - Comments
@@ -213,6 +216,8 @@
 - LongArrow
 - MachineLearning
 - Mail
+- MarkdownMarkSolid
+- MarkdownMark
 - MarqueeSelection
 - Maximize
 - MediaBroken
@@ -234,6 +239,7 @@
 - NotificationsOff
 - Notifications
 - Object
+- Organization
 - Overview
 - Package
 - PaperAirplane
@@ -257,12 +263,14 @@
 - PushRules
 - QuestionO
 - Question
+- QuickActions
 - Quota
 - Quote
 - Redo
 - RemoveAll
 - Remove
 - Repeat
+- Reply
 - Requirements
 - Retry
 - ReviewCheckmark
@@ -359,6 +367,7 @@
 - Tablet
 - Tachometer
 - Tag
+- TanukiAi
 - TanukiVerified
 - Tanuki
 - TaskDone
