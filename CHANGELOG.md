@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.17.0](https://github.com/metonym/svelte-gitlab-icons/releases/tag/v0.17.0) - 2023-07-08
+
+**Breaking Changes**
+
+- minimum Svelte version for TS users is 3.55 since generated type definitions now use `svelte/elements`
+
+**Features**
+
+- upgrade `@gitlab/svgs` to [v3.54.0](https://gitlab.com/gitlab-org/gitlab-svgs/-/releases/v3.54.0) (net +1 icon)
+
+**Fixes**
+
+- allow `data-*` attributes to be passed to icon components
+
 ## [0.16.0](https://github.com/metonym/svelte-gitlab-icons/releases/tag/v0.16.0) - 2023-06-03
 
 - upgrade `@gitlab/svgs` to [v3.51.0](https://gitlab.com/gitlab-org/gitlab-svgs/-/releases/v3.51.0) (net +9 icons)
