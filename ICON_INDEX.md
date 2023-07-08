@@ -1,6 +1,6 @@
 # Icon Index
 
-> 400 total icons
+> 401 total icons
 
 ## Icons
 
@@ -39,6 +39,7 @@
 - Cancel
 - CanceledCircle
 - Car
+- CatalogCheckmark
 - Chart
 - CheckCircleDashed
 - CheckCircleFilled
