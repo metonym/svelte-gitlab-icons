@@ -1,6 +1,6 @@
 # Icon Index
 
-> 401 total icons
+> 403 total icons
 
 ## Icons
 
@@ -45,6 +45,7 @@
 - CheckCircleFilled
 - CheckCircle
 - CheckSm
+- CheckXs
 - Check
 - CherryPickCommit
 - ChevronDoubleLgLeft
@@ -60,6 +61,7 @@
 - ClearAll
 - Clear
 - Clock
+- CloseXs
 - Close
 - CloudGear
 - CloudPod
