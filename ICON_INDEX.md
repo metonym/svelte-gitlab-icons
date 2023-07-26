@@ -1,6 +1,6 @@
 # Icon Index
 
-> 400 total icons
+> 403 total icons
 
 ## Icons
 
@@ -39,11 +39,13 @@
 - Cancel
 - CanceledCircle
 - Car
+- CatalogCheckmark
 - Chart
 - CheckCircleDashed
 - CheckCircleFilled
 - CheckCircle
 - CheckSm
+- CheckXs
 - Check
 - CherryPickCommit
 - ChevronDoubleLgLeft
@@ -59,6 +61,7 @@
 - ClearAll
 - Clear
 - Clock
+- CloseXs
 - Close
 - CloudGear
 - CloudPod
