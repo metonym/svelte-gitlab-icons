@@ -1,6 +1,6 @@
 # Icon Index
 
-> 403 total icons
+> 405 total icons
 
 ## Icons
 
@@ -188,6 +188,7 @@
 - IssueTypeRequirements
 - IssueTypeTask
 - IssueTypeTestCase
+- IssueTypeTicket
 - IssueUpdate
 - Issues
 - Italic
@@ -222,6 +223,7 @@
 - MarkdownMarkSolid
 - MarkdownMark
 - MarqueeSelection
+- Mastodon
 - Maximize
 - MediaBroken
 - Media
